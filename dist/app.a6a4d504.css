@@ -1,0 +1,13 @@
+body {
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    background: black;
+    margin: 0px;
+    padding: 0px;
+}
+
+#deckgl-overlay {
+  top: 0;
+  left: 0;
+}
